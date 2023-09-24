@@ -1,0 +1,13 @@
+How to remove the healthy recovery partition
+
+open CMD
+
+
+Write these commands----------
+diskpart
+list disk
+select disk #
+list partition
+select partition #
+
+delete partition override
