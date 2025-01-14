@@ -1,0 +1,17 @@
+Windows Command Line Commands :: https://www.freecodecamp.org/news/command-line-commands-cli-tutorial/
+
+powershell start cmd -v runAs – Run the Command Prompt as an Administrator
+Entering this command opens another command prompt window as an administrator:ss1-1
+
+driverquery – Lists All Installed Drivers
+It is important to have access to all drivers because they often cause problems.
+
+That’s what this command does – it shows you even the drivers you won’t find in the device manager.ss2-1
+
+chdir or cd – Changes the Current Working Directory to the Specified Directory
+ss3-1
+
+systeminfo – Shows Your PC's Details
+If you want to see more detailed information about your system you won’t see in the GUI, this is the command for you.ss4-1
+
+set – Shows your PC’s Environment Variables
